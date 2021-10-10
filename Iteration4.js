@@ -1,4 +1,4 @@
-//! Iteración #4: Probando For...in //
+//! Iteración #4: Probando For...in 
 
 // Usa un for...in para imprimir por consola los datos del alienígena.. Puedes usar este objeto:
 
