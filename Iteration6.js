@@ -1,4 +1,4 @@
-//! Iteración #6: Mixed For...of e includes
+//!  Iteración #6: Mixed For...of e includes
 
 // Usa un bucle for...of para recorrer todos los juguetes y elimina los que incluyan la palabra gato. Recuerda que puedes usar la función .includes() para comprobarlo. Puedes usar este array:
 
